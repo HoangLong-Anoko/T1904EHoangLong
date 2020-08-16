@@ -1,0 +1,17 @@
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\bin\Debug\netstandard2.0\MyService.deps.json
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\bin\Debug\netstandard2.0\MyService.dll
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.AssemblyInfoInputs.cache
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.AssemblyInfo.cs
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\bin\Debug\netstandard2.0\MyService.pdb
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.dll
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.pdb
+C:\Users\xuan hung\Downloads\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.csprojAssemblyReference.cache
+F:\T1904E\T1904EHelloUWP\MyService\bin\Debug\netstandard2.0\MyService.deps.json
+F:\T1904E\T1904EHelloUWP\MyService\bin\Debug\netstandard2.0\MyService.dll
+F:\T1904E\T1904EHelloUWP\MyService\bin\Debug\netstandard2.0\MyService.pdb
+F:\T1904E\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.csprojAssemblyReference.cache
+F:\T1904E\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.AssemblyInfoInputs.cache
+F:\T1904E\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.AssemblyInfo.cs
+F:\T1904E\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.csproj.CoreCompileInputs.cache
+F:\T1904E\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.dll
+F:\T1904E\T1904EHelloUWP\MyService\obj\Debug\netstandard2.0\MyService.pdb
