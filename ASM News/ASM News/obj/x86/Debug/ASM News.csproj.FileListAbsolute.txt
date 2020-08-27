@@ -1,0 +1,50 @@
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\App.xbf
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Views\MainPage.xbf
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\ASM News.xr.xml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\ASM News.exe
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\ASM News.pdb
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\resources.pri
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\AppxManifest.xml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Core\AppxManifest.xml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Core\ASM News.exe
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\ASM News.build.appxrecipe
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\System.Runtime.dll
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ASM News.csprojAssemblyReference.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\App.g.i.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\App.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\MainPage.g.i.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\MainPage.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\App.xaml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\MainPage.xaml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\App.xbf
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\MainPage.xbf
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\XamlSaveStateFile.xml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ASM News.csproj.CoreCompileInputs.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ASM News.csproj.CopyComplete
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ASM News.exe
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ASM News.pdb
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ResourceHandlingTask.state
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\priconfig.xml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\priconfig.xml.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\unfiltered.layout.resfiles
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\filtered.layout.resfiles
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\excluded.layout.resfiles
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\resources.resfiles
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\resources.resfiles.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\pri.resfiles
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\pri.resfiles.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\qualifiers.txt
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\qualifiers.txt.intermediate
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\ProjectArchitectures.txt
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112354540000000.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Views\TestView.xbf
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\TestView.g.i.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\TestView.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\TestView.xaml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\Views\TestView.xbf

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-53LKSNI</Machine>
+    <WindowsUser>DELL</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>8840c607-d415-493a-86ed-e87292f68f96</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DELL</PackageIdentityPublisher>
+    <IntermediateOutputPath>F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9F63DC99A75B14D81DA7C85F5112638A953392385E2A75EF5CC88E53745FE051</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8840c607-d415-493a-86ed-e87292f68f96_1.0.0.0_x86__hqhyg1cvr7f3y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8840c607-d415-493a-86ed-e87292f68f96_hqhyg1cvr7f3y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8840c607-d415-493a-86ed-e87292f68f96</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DELL</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-27T13:08:55.610</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\ASM News.exe">
+      <PackagePath>entrypoint\ASM News.exe</PackagePath>
+      <Modified>2020-08-27T13:08:54.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-27T12:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-12-06T13:24:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Entertainment\Macaulay Culkin Trolls Fans.png">
+      <PackagePath>Assets\Contents\Entertainment\Macaulay Culkin Trolls Fans.png</PackagePath>
+      <Modified>2020-08-27T12:11:14.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Entertainment\What to watch on Thursday.png">
+      <PackagePath>Assets\Contents\Entertainment\What to watch on Thursday.png</PackagePath>
+      <Modified>2020-08-27T11:53:29.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Politics\Opinion_Trump gets an extreme makeover at the RNC.png">
+      <PackagePath>Assets\Contents\Politics\Opinion_Trump gets an extreme makeover at the RNC.png</PackagePath>
+      <Modified>2020-08-27T12:30:35.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Politics\RNC Day 4 Trump to accept nom at White House.png">
+      <PackagePath>Assets\Contents\Politics\RNC Day 4 Trump to accept nom at White House.png</PackagePath>
+      <Modified>2020-08-27T12:31:59.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Technology\Dem, GOP conventions will be like none before.png">
+      <PackagePath>Assets\Contents\Technology\Dem, GOP conventions will be like none before.png</PackagePath>
+      <Modified>2020-08-27T12:35:56.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Technology\Galaxy Note 20 costs %24300 less than the Ultra.png">
+      <PackagePath>Assets\Contents\Technology\Galaxy Note 20 costs %24300 less than the Ultra.png</PackagePath>
+      <Modified>2020-08-27T12:34:28.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Weather\Laura updates Hurricane weakens to Category 2.png">
+      <PackagePath>Assets\Contents\Weather\Laura updates Hurricane weakens to Category 2.png</PackagePath>
+      <Modified>2020-08-27T12:38:32.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Contents\Weather\Why coastal communities should fear storm surge.png">
+      <PackagePath>Assets\Contents\Weather\Why coastal communities should fear storm surge.png</PackagePath>
+      <Modified>2020-08-27T12:39:46.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Icons\Entertainment.png">
+      <PackagePath>Assets\Icons\Entertainment.png</PackagePath>
+      <Modified>2020-08-26T10:50:47.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Icons\Weather.png">
+      <PackagePath>Assets\Icons\Weather.png</PackagePath>
+      <Modified>2020-08-26T10:46:09.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-08-08T03:03:06.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-08T03:03:06.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-08T03:03:06.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-08T03:03:06.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-08T03:03:06.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-08T03:03:06.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-08T03:03:06.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Icons\Politics.jpg">
+      <PackagePath>Assets\Icons\Politics.jpg</PackagePath>
+      <Modified>2020-08-26T10:44:57.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Assets\Icons\Technology.jpg">
+      <PackagePath>Assets\Icons\Technology.jpg</PackagePath>
+      <Modified>2020-08-26T10:49:10.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-08-26T09:29:37.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\ASM News.xr.xml">
+      <PackagePath>ASM News.xr.xml</PackagePath>
+      <Modified>2020-08-27T12:58:28.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-08-27T13:08:54.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2020-08-27T13:08:54.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Views\TestView.xbf">
+      <PackagePath>Views\TestView.xbf</PackagePath>
+      <Modified>2020-08-27T13:08:54.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-12-06T11:33:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-08-27T13:02:43.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\GithubRepos\T1904E_UWP_ALL_APPS\ASM News\ASM News\bin\x86\Debug\Core\ASM News.exe">
+      <PackagePath>ASM News.exe</PackagePath>
+      <Modified>2020-08-27T13:08:55.603</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
