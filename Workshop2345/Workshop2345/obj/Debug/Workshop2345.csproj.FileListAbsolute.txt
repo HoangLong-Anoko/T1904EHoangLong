@@ -67,7 +67,6 @@ F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\bin\Newtonsoft.Json
 F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\bin\Antlr3.Runtime.pdb
 F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\bin\Microsoft.AspNet.FriendlyUrls.xml
 F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\obj\Debug\Workshop2345.csprojAssemblyReference.cache
 F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\obj\Debug\Workshop2345.csproj.CoreCompileInputs.cache
 F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\obj\Debug\Workshop2345.csproj.CopyComplete
 F:\GithubRepos\T1904E_UWP_ALL_APPS\Workshop2345\Workshop2345\obj\Debug\Workshop2345.dll

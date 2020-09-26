@@ -1,0 +1,82 @@
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.exe
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.deps.json
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.runtimeconfig.json
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.runtimeconfig.dev.json
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.dll
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.pdb
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.Views.dll
+C:\Users\ThiDK\source\repos\SmartCrafts\bin\Debug\netcoreapp3.1\SmartCrafts.Views.pdb
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.AssemblyInfoInputs.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.AssemblyInfo.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.csproj.CoreCompileInputs.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.RazorAssemblyInfo.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.RazorAssemblyInfo.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.TagHelpers.input.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.TagHelpers.output.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.RazorCoreGenerate.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.RazorTargetAssemblyInfo.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.RazorTargetAssemblyInfo.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.Views.pdb
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\staticwebassets\SmartCrafts.StaticWebAssets.Manifest.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\staticwebassets\SmartCrafts.StaticWebAssets.xml
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.dll
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.pdb
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.genruntimeconfig.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.csproj.CopyComplete
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.RazorComponent.input.cache
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\RazorDeclaration\SmartCrafts.dll
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
+C:\Users\ThiDK\source\repos\SmartCrafts\obj\Debug\netcoreapp3.1\SmartCrafts.csprojAssemblyReference.cache
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\appsettings.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.exe
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.deps.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.runtimeconfig.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.runtimeconfig.dev.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.dll
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.pdb
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.Views.dll
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\SmartCrafts.Views.pdb
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.csprojAssemblyReference.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.AssemblyInfoInputs.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.AssemblyInfo.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.csproj.CoreCompileInputs.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.MvcApplicationPartsAssemblyInfo.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.RazorComponent.input.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\RazorDeclaration\SmartCrafts.dll
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.TagHelpers.input.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.TagHelpers.output.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.RazorCoreGenerate.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.RazorAssemblyInfo.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.RazorAssemblyInfo.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.RazorTargetAssemblyInfo.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.RazorTargetAssemblyInfo.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.Views.pdb
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\staticwebassets\SmartCrafts.StaticWebAssets.Manifest.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\staticwebassets\SmartCrafts.StaticWebAssets.xml
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.dll
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.pdb
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.genruntimeconfig.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\SmartCrafts.csproj.CopyComplete
