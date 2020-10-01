@@ -1,0 +1,81 @@
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.AssemblyInfoInputs.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.AssemblyInfo.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.csproj.CoreCompileInputs.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.MvcApplicationPartsAssemblyInfo.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.RazorComponent.input.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\RazorDeclaration\MovieWeb.dll
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.TagHelpers.input.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.TagHelpers.output.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.RazorCoreGenerate.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.RazorAssemblyInfo.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.RazorAssemblyInfo.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.RazorTargetAssemblyInfo.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.RazorTargetAssemblyInfo.cs
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.dll
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.pdb
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\appsettings.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.exe
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.deps.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.runtimeconfig.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.runtimeconfig.dev.json
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.dll
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.pdb
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.Views.dll
+F:\T1904E\SmartCrafts 03\bin\Debug\netcoreapp3.1\MovieWeb.Views.pdb
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.Views.pdb
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\staticwebassets\MovieWeb.StaticWebAssets.Manifest.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\staticwebassets\MovieWeb.StaticWebAssets.xml
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.genruntimeconfig.cache
+F:\T1904E\SmartCrafts 03\obj\Debug\netcoreapp3.1\MovieWeb.csproj.CopyComplete
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\appsettings.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.exe
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.deps.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.runtimeconfig.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.runtimeconfig.dev.json
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.dll
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.pdb
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.Views.dll
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\bin\Debug\netcoreapp3.1\MovieWeb.Views.pdb
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.csprojAssemblyReference.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.AssemblyInfoInputs.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.AssemblyInfo.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.csproj.CoreCompileInputs.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.MvcApplicationPartsAssemblyInfo.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.RazorComponent.input.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\RazorDeclaration\MovieWeb.dll
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.TagHelpers.input.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.TagHelpers.output.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.RazorCoreGenerate.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.RazorAssemblyInfo.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.RazorAssemblyInfo.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.RazorTargetAssemblyInfo.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.RazorTargetAssemblyInfo.cs
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.Views.pdb
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\staticwebassets\MovieWeb.StaticWebAssets.Manifest.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\staticwebassets\MovieWeb.StaticWebAssets.xml
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.dll
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.pdb
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.genruntimeconfig.cache
+F:\GithubRepos\T1904E_UWP_ALL_APPS\MovieWeb\obj\Debug\netcoreapp3.1\MovieWeb.csproj.CopyComplete

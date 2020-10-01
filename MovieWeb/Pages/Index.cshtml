@@ -1,0 +1,38 @@
+﻿@page
+@using MovieWeb.Components
+@model MovieWeb.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to MovieWeb</h1>
+</div>
+
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
+
+
+@*<div class="card-columns">
+        @foreach (var product in Model.Products)
+        {
+            <div class="card">
+                <div class="card-img" style="background-image: url('@product.Image');">
+                    <a href="@product.Url">
+                    </a>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">@product.Title</h5>
+                </div>
+                <div class="card-footer">
+                    <small class="text-muted">
+                        <button data-toggle="modal" data-target="#productModal" class="btn btn-primary">
+                            Details
+                        </button>
+                    </small>
+                </div>
+            </div>
+        }
+</div>*@
